@@ -6,9 +6,9 @@ This Python script allows the analysis of X-ray Diffraction (XRD) data from .csv
 
 Import .csv files containing multiple XRD measurements
 
-Integration of the area under the curve between specific bounds (integral calculation)
+Peak features extracting :
 
-Peak features extracting:
+Integration of the area under the curve between specific bounds
 
 The maximum intensity of the peaks
 
