@@ -25,6 +25,11 @@ Define integration boundaries if needed.
 
 Retrieve computed values (area under the curve, peaks, FWHM, etc.).
 
+Examples : 
+
+![Examples](https://github.com/user-attachments/assets/65761cd0-449a-4035-a989-ce31604bf049)
+![output_example](https://github.com/user-attachments/assets/b94cd7d8-7e4a-4423-939b-e972d331ae91)
+
 
 ## 📦 Dependencies
 
