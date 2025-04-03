@@ -12,7 +12,7 @@ Integration of the area under the curve between specific bounds
 
 The maximum intensity of the peaks
 
-The peak positions in 2θ
+The maximum peak positions in 2θ
 
 The FWHM (Full Width at Half Maximum)
 
