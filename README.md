@@ -8,20 +8,20 @@ Import .csv files containing multiple XRD measurements
 
 Peak features extracting :
 
-Integration of the area under the curve between specific bounds
+**Integration of the area** under the curve between specific bounds
 
-The maximum intensity of the peaks
+The **maximum intensity of the peaks**
 
-The maximum peak positions in 2θ
+The **maximum peak positions in 2θ**
 
-The FWHM (Full Width at Half Maximum)
+The **FWHM** (Full Width at Half Maximum)
 
 
 ## 🔧 Usage
 
 Load a .csv file containing 2θ and intensity columns.
 
-Define integration boundaries if needed.
+Define integration boundaries.
 
 Retrieve computed values (area under the curve, peaks, FWHM, etc.).
 
