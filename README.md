@@ -38,6 +38,6 @@ scipy
 
 If you use this code in your work, please cite this GitHub repository:
 
-Navid MOUHAMAD, XRD Data Analysis for perovskite (MHP). Available at: [Link to your repo]
+Navid MOUHAMAD, XRD Data Analysis for perovskite (MHP). Available at: https://github.com/Nav9110/XRD_code
 
 Feel free to contribute or suggest improvements! 🚀
