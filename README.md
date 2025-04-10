@@ -12,7 +12,7 @@ Peak features extracting :
 
 The **maximum intensity of the peaks**
 
-The **maximum peak positions in 2θ**
+The **peak positions in 2θ**
 
 The **FWHM** (Full Width at Half Maximum)
 
