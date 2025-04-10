@@ -27,8 +27,8 @@ Retrieve computed values (area under the curve, peaks, FWHM, etc.).
 
 Examples : 
 
-![Examples](https://github.com/user-attachments/assets/65761cd0-449a-4035-a989-ce31604bf049)
-![output_example](https://github.com/user-attachments/assets/b94cd7d8-7e4a-4423-939b-e972d331ae91)
+![Capture d’écran 2025-04-10 160322](https://github.com/user-attachments/assets/0170f6b9-a25e-4e47-a1a1-7a2e040843e7)
+![Capture d’écran 2025-04-10 160358](https://github.com/user-attachments/assets/92344da0-f645-4fdd-b91d-a79e7880f984)
 
 
 ## 📦 Dependencies
