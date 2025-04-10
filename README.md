@@ -25,11 +25,19 @@ Define integration boundaries.
 
 Retrieve computed values (area under the curve, peaks, FWHM, etc.).
 
-Examples : 
+---
+
+### Examples input : 
+
+![input](https://github.com/user-attachments/assets/2eaae980-781a-412f-ac24-6610c4233bfe)
+
+
+### Examples output : 
 
 ![Capture d’écran 2025-04-10 160322](https://github.com/user-attachments/assets/0170f6b9-a25e-4e47-a1a1-7a2e040843e7)
-![Capture d’écran 2025-04-10 160358](https://github.com/user-attachments/assets/92344da0-f645-4fdd-b91d-a79e7880f984)
+![output2](https://github.com/user-attachments/assets/16a03faf-de14-4c19-b0fa-8895441ec615)
 
+---
 
 ## 📦 Dependencies
 
